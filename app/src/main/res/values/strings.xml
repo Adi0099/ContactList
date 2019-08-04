@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContactList</string>
+    <string name="wait">Please Wait..</string>
+    <string name="name">Name</string>
+    <string name="num">Number</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
